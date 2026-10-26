@@ -22,10 +22,10 @@
         ]
     },
     {
-        "file": "tu003150.dlc", 
-        "title": "missing dlc",
+        "file": "tu002560.dlc", 
+        "title": "test dlc",
         "buttons": [
-            { "title": "lost dlc ", "action": [75,0,1,3] }
+            { "title": "test dlc ", "action": [75,0,1,3] }
         ]
     }
 ]
