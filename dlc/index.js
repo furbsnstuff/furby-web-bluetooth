@@ -1,9 +1,9 @@
 [
     { 
-        "file": "context.dlc", 
-        "title": "Context Logo",
+        "file": "tu012640.dlc", 
+        "title": "unsure dlc",
         "buttons": [
-            { "title": "Logo", "action": [75,0,4,4] }
+            { "title": "dlc test", "action": [75,0,1,3] }
         ]
     },
     { 
@@ -22,8 +22,8 @@
         ]
     },
     {
-        "file": "tu012770.dlc", 
-        "title": "testingdlc",
+        "file": "tu012700.dlc", 
+        "title": "fuck",
         "buttons": [
             { "title": "test dlc ", "action": [75,0,1,3] }
         ]
