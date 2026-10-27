@@ -22,8 +22,8 @@
         ]
     },
     {
-        "file": "tu012700.dlc", 
-        "title": "fuck",
+        "file": "fu001680.dlc", 
+        "title": "fu dlc?",
         "buttons": [
             { "title": "test dlc ", "action": [75,0,1,3] }
         ]
